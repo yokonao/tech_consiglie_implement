@@ -3,3 +3,4 @@ csv/*
 json/*
 log/*
 main.sh
+.DS_Store
